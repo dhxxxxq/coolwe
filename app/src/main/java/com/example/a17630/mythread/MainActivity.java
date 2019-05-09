@@ -74,7 +74,7 @@ private ServiceConnection connection=new ServiceConnection() {
 
                 break;
             case R.id.login:
-                Intent intent=new Intent(this,Main2Activity.class);
+                Intent intent=new Intent(this,Main5Activity.class);
                 startActivity(intent);
 
                 break;
